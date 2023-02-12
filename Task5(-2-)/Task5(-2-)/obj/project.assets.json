@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Task5(-2-)\\Task5(-2-)\\Task5(-2-).csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\all task kamran's\\Task5(_2_)\\Task5(-2-)\\Task5(-2-)\\Task5(-2-).csproj",
       "projectName": "Task5(-2-)",
-      "projectPath": "C:\\Users\\DELL\\Desktop\\Task5(-2-)\\Task5(-2-)\\Task5(-2-).csproj",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\all task kamran's\\Task5(_2_)\\Task5(-2-)\\Task5(-2-)\\Task5(-2-).csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Desktop\\Task5(-2-)\\Task5(-2-)\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\all task kamran's\\Task5(_2_)\\Task5(-2-)\\Task5(-2-)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
